@@ -18,4 +18,3 @@ export const Root = () => (
     </Routes>
   </HashRouter>
 );
-
